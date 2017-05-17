@@ -39,7 +39,7 @@ create-next-app my-app
 cd my-app/
 npm run dev
 ```
-在浏览器中http://localhost:3000,即可在浏览器看到运行后的结果，并且已经实现了热加载的功能。
+在浏览器中输入[http://localhost:3000](http://localhost:3000) 即可在浏览器看到运行后的结果，并且已经实现了热加载的功能。
 
 当你准备将你的项目部署到生成环境中时，执行`npm run build` 命令 就可以将应用程序压缩打包，然后执行 `npm run start`即可运行项目。
 
@@ -102,7 +102,7 @@ my-app/
 * 总结:我们发现在构建app时，没有做大量的配置，也没有复杂的文件夹结构，一旦安装成功，你就可以在你的项目目录中运行一些命令来构建一个App。
 
 ### 开发模式下运行
-在开发模式下执行下面命令命令，然后打开http://localhost:3000 就可以在浏览器中看到运行效果,如下图所示:。
+在开发模式下执行下面命令命令，然后打开[http://localhost:3000](http://localhost:3000)  就可以在浏览器中看到运行效果,如下图所示:。
 
 ##### `npm run dev` or `yarn dev`
 
@@ -157,5 +157,20 @@ my-app/
 如对其他文章感兴趣，可以关注大前端工程师</br>
 
 ![weixinhao](https://cloud.githubusercontent.com/assets/20238205/26142454/2d2b04bc-3b13-11e7-85d4-cf6d5277722c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
