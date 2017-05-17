@@ -49,7 +49,7 @@ npm run dev
 
 ## 快速入门
 
-与Webpack 或 Babel工具相比，你并不需要像他们那样，需要安装大量插件和写大量的配置文件.Create Next App 预先隐藏了配置，这样你就可以只专注于你的代码，而不需要为大量的配置文件而烦恼。
+与Webpack 或 Babel工具相比，你并不需要安装大量插件和写大量的配置文件.Create Next App 预先隐藏了配置，这样你就可以只专注于你的代码，而不需要为大量的配置文件而烦恼。
 
 ### 安装
 
@@ -157,3 +157,5 @@ my-app/
 如对其他文章感兴趣，可以关注大前端工程师</br>
 
 ![weixinhao](https://cloud.githubusercontent.com/assets/20238205/26142454/2d2b04bc-3b13-11e7-85d4-cf6d5277722c.png)
+
+
